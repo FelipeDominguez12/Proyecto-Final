@@ -1,0 +1,59 @@
+{
+  "heroes": [
+    {
+      "id": 11,
+      "name": "Dr Nice",
+      "poder": "Super Fuerza"
+    },
+    {
+      "id": 12,
+      "name": "Narco",
+      "poder": "Elasticidad"
+    },
+    {
+      "id": 13,
+      "name": "Bombasto",
+      "poder": "Invisibilidad"
+    },
+    {
+      "id": 14,
+      "name": "Celeristas",
+      "poder": "Super Fuerza"
+    },
+    {
+      "id": 15,
+      "name": "Magneta",
+      "poder": "Invisibilidad"
+    },
+    {
+      "id": 16,
+      "name": "RubberMan",
+      "poder": "Magneto"
+    },
+    {
+      "id": 17,
+      "name": "Dynama",
+      "poder": "Cambio de Imagen"
+    },
+    {
+      "id": 18,
+      "name": "Dr IQ",
+      "poder": "Volar"
+    },
+    {
+      "id": 19,
+      "name": "Magma",
+      "poder": "Saliba de Acido"
+    },
+    {
+      "id": 20,
+      "name": "Tornado",
+      "poder": "Elasticidad"
+    },
+    {
+      "id": 21,
+      "name": "Felipe",
+      "poder": "Volar"
+    }
+  ]
+}
